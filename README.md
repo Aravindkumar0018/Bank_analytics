@@ -53,4 +53,4 @@ Customer segmentation based on account balance and transaction behavior
 
 # 🚀 Conclusion
 
-This Bank Analytics project demonstrates how raw banking data can be transformed into ** actionable business insights ** using data analysis and visualization tools. It reflects real-world analytical thinking and problem-solving skills relevant to a Data Analyst role.
+This Bank Analytics project demonstrates how raw banking data can be transformed into **actionable business insights** using data analysis and visualization tools. It reflects real-world analytical thinking and problem-solving skills relevant to a Data Analyst role.
